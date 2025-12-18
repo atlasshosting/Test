@@ -1,0 +1,8 @@
+{
+  "name": "AXIOM Founding OS",
+  "description": "A self-evident truth for your business. Axiom is a brutally honest co-founder designed to optimize for survival and revenue.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
